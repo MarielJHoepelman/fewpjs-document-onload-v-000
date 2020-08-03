@@ -1,6 +1,6 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function() {
-  document.getElementById(id="text").textContent = 'This is really cool!';
+  document.getElementById("text").textContent = 'This is really cool!';
 });
 
 console.log(
